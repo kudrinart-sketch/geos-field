@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "packageName": "ru.geos.field",
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "minSdk": 26,
+  "size": 154796,
+  "apkUrl": "https://raw.githubusercontent.com/kudrinart-sketch/geos-field/main/apk/GeoS-Android-0.1.7.apk",
+  "sha256": "c8c794ecdf53676b1e6f62daf0e4bd39cfc9905f144c8e67e78683f10fccd463",
+  "notes": "Два горизонта подземных вод с отдельными глубинами и датами. Раздел «Обновления» для загрузки новых версий. Для передачи двух горизонтов на ПК нужен GeoS 0.7.64 или новее."
+}
