@@ -1,11 +1,11 @@
 {
   "format": 1,
   "packageName": "ru.geos.field",
-  "versionCode": 8,
-  "versionName": "0.1.7",
+  "versionCode": 9,
+  "versionName": "0.1.8",
   "minSdk": 26,
-  "size": 154796,
-  "apkUrl": "https://raw.githubusercontent.com/kudrinart-sketch/geos-field/main/apk/GeoS-Android-0.1.7.apk",
-  "sha256": "c8c794ecdf53676b1e6f62daf0e4bd39cfc9905f144c8e67e78683f10fccd463",
-  "notes": "Два горизонта подземных вод с отдельными глубинами и датами. Раздел «Обновления» для загрузки новых версий. Для передачи двух горизонтов на ПК нужен GeoS 0.7.64 или новее."
+  "size": 162276,
+  "apkUrl": "https://raw.githubusercontent.com/kudrinart-sketch/geos-field/main/apk/GeoS-Android-0.1.8.apk",
+  "sha256": "fc45169a13e5d97f3740e6d9c9d9d2532ca333b31eea9c06c159323b368bf305",
+  "notes": "Передача объекта коллеге: объект → ⋯ → Передать коллеге. На другом телефоне — Принять объект. Переносятся скважины, описания, ИГЭ, пробы, оба горизонта воды, зондирование и фото. Получатель может продолжить редактирование. Повторная загрузка создаёт отдельную копию. Для приёма нужна версия 0.1.8 или новее."
 }
