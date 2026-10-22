@@ -1,3 +1,4 @@
 c8c794ecdf53676b1e6f62daf0e4bd39cfc9905f144c8e67e78683f10fccd463  apk/GeoS-Android-0.1.7.apk
 fc45169a13e5d97f3740e6d9c9d9d2532ca333b31eea9c06c159323b368bf305  apk/GeoS-Android-0.1.8.apk
 4fc48212baf585e82932bb30fa3eb9c7e7a3261dcc0016d14ef267914fd98690  apk/GeoS-Android-0.1.9.apk
+aefce2b597fafcc967ecbb2c6c46b3787dd3723902e9b79bd841a1071f1a9714  apk/GeoS-Android-0.1.10.apk
